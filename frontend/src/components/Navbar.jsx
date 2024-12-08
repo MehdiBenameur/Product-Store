@@ -4,6 +4,7 @@ import {PlusSquareIcon} from "@chakra-ui/icons"
 import { IoMoon } from "react-icons/io5";
 import { LuSun } from "react-icons/lu";
 
+
 const Navbar = () => {
   const { colorMode, toggleColorMode} = useColorMode();
   return (
